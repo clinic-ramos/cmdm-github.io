@@ -5,3 +5,4 @@ cd ~/Documents/code/clinic-prod
 cp -r ~/Documents/code/clinic/dist/* ./
 git add .
 git commit -m"deploy"
+git push -f
